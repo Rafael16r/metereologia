@@ -27,7 +27,8 @@ function App() {
     <div className="App">
       {/* Vídeo de fundo */}
       <video autoPlay loop muted className="background">
-        <source src="/outono.mp4" type="video/mp4" />
+       <source src="/metereologia/outono.mp4" type="video/mp4" />
+
       </video>
 
       <h1>Metereologia </h1>
