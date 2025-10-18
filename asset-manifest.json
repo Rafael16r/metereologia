@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/metereologia/static/css/main.eddf671a.css",
-    "main.js": "/metereologia/static/js/main.8d436cc6.js",
+    "main.js": "/metereologia/static/js/main.e2afe04f.js",
     "static/js/453.6cfd0903.chunk.js": "/metereologia/static/js/453.6cfd0903.chunk.js",
     "index.html": "/metereologia/index.html",
     "main.eddf671a.css.map": "/metereologia/static/css/main.eddf671a.css.map",
-    "main.8d436cc6.js.map": "/metereologia/static/js/main.8d436cc6.js.map",
+    "main.e2afe04f.js.map": "/metereologia/static/js/main.e2afe04f.js.map",
     "453.6cfd0903.chunk.js.map": "/metereologia/static/js/453.6cfd0903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eddf671a.css",
-    "static/js/main.8d436cc6.js"
+    "static/js/main.e2afe04f.js"
   ]
 }
